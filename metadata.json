@@ -1,0 +1,6 @@
+{
+  "name": "Facet — Designed in Glass",
+  "description": "Real-time material studio hero featuring shattered smoked-glass 3D shards with interactive tilt, raycasted lifting, iridescence sheen, and cinematic shatter transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
